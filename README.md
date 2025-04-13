@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on a VR computer game
+I'm currently learning Javascript
+I'm looking for help about Javascript
+Ask me about Cat games
+How to reach me Linkedin SecondWayStudios
+Pronouns: He/Him
+Fun fact: I'm Boring! Who ha!
