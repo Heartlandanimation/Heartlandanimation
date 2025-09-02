@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About me:
+My name is Thomas Jones, pronouns are he/him and I'm based out of the midwest but I'm currently traveling abroad to learn more about my heritage
 
-I'm currently working on a VR computer game
-I'm currently learning Javascript
-I'm looking for help about Javascript
-Ask me about Cat games
-How to reach me Linkedin SecondWayStudios
-Pronouns: He/Him
-Fun fact: I'm Boring! Who ha!
+What I'm building currently:
+I'm currently working on a collection of small gamnes that can be turned around rapidly, the one I'm working on right now I want to sell for $0.99. I'm learning a game engine called pico-8 to do so and it uses the programming language lua which is also what roblox uses which is where I'm going to design my next small game. When I'm not making small games I'm designing helpful business tools like a custom front facing employee payment solution for indi game studios.
+
+What i've built in the past:
+I've worked on lots of games with my peers in my game studio called Second Way Studios, my role for each project has varied depending on the needs: sometimes art, sometime level design, voice acting, and writing. 
+I've also recently finished up a programming bootcamp called Tech Elevator where I build more technical applications alongside the course material, all of these projects can be found on this git hub. 
